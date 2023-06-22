@@ -1,3 +1,5 @@
 # leonljs.github.io
-JS temp website
-This web is for jsli.dev -------> jsli.phd
+JS redirecting website
+jsli.dev -------> jsli.phd
+
+Visit jsli.phd for latest information
